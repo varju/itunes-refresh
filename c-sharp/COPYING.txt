@@ -1,0 +1,5 @@
+Copyright (c) 2006, Alex Varju
+All rights reserved.
+
+This tool is BSD licensed:
+http://www.opensource.org/licenses/bsd-license.php
